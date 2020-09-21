@@ -1,0 +1,1 @@
+export const INIT_HOME_DATE = 'init_home_date';

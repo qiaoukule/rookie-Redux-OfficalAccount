@@ -1,0 +1,65 @@
+.root {
+    background-color: rgb(246,248,249);
+}
+
+.title{
+    padding: 20px 0 10px 20px;
+    font-size: 25px;
+}
+
+.situation > * {
+    background-color:white;
+}
+
+.situation {
+    height: 300px;
+    width: 1200px;
+    background-color:white;
+    margin-top: 20px;
+}
+
+.situationTr {
+    margin-top: 40px;
+    width: 1200px;
+}
+
+.situationTd {
+    width: 33.33%;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: center;
+    background-color:white;
+}
+
+
+.numberSize {
+    font-size: 3em;
+}
+
+.newCreation {
+    height: 300px;
+    width: 1200px;
+    background-color:white;
+    margin-top: 50px; 
+}
+
+.cardContainer {
+    width:1160px;;
+    height:80%;
+    margin: 30px; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+    width: 160px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.cardContainer :first-of-type { 
+    margin-left: 40px;
+ };
+
+
