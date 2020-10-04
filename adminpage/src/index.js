@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 import { Router } from "react-router"
 import store from "./redux/store"
 //import routes from "ROUTER"
-import App from './app'
+import App from './App'
 
 const MOUNT_NODE = document.getElementById('root')
 

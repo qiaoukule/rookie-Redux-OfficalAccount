@@ -16,10 +16,10 @@ class Siderbar extends Component {
               <BigLi> <Icon>  <AppsIcon/> </Icon>功能</BigLi>
               <SmallLi><a href='/message'>自动回复</a></SmallLi>
               <SmallLi><a>留言管理</a></SmallLi>
-              <SmallLi><a>投票管理</a></SmallLi>
-              <BigLi> <Icon>  <DraftsIcon/> </Icon>管理</BigLi>
-              <SmallLi><a>消息管理</a></SmallLi>
               <SmallLi><a>用户管理</a></SmallLi>
+              <BigLi> <Icon>  <DraftsIcon/> </Icon>管理</BigLi>
+              <SmallLi><a >图文素材</a></SmallLi>
+              <SmallLi><a href='/pictureMaterial'>多媒体素材</a></SmallLi>
               <BigLi> <Icon>  <InsertChartIcon/> </Icon>统计</BigLi>
               <SmallLi><a>用户分析</a></SmallLi>
               <SmallLi><a>内容分析</a></SmallLi>
